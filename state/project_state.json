@@ -1,0 +1,22 @@
+{
+  "project": "lemonde7",
+  "chat_id": "6359703425",
+  "work_dir": "/tmp/lemonde7",
+  "owner": "cryptoradio7",
+  "git_platform": "github",
+  "brief": "/home/openclaw/workspaces/agent-coding-team/BRIEF.md",
+  "phase": "architecte",
+  "phase_status": "in_progress",
+  "mode": "guide",
+  "phases": {
+    "cadrage": { "status": "done", "outputs": ["BRIEF.md"] },
+    "architecte": { "status": "in_progress", "outputs": [] },
+    "business-analyst": { "status": "pending", "outputs": [] },
+    "developpement": { "status": "pending", "outputs": [] },
+    "cybersecurite": { "status": "pending", "outputs": [] },
+    "devops": { "status": "pending", "outputs": [] }
+  },
+  "stories": [],
+  "retries": {},
+  "derniere_maj": "2026-03-26T08:12:00Z"
+}
